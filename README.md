@@ -1,5 +1,8 @@
 # Quiz
 
+## Link
+https://micahlanham.github.io/Quiz/
+
 ## About
 This is a quiz that tests random knowledge of various topics. There are five questions to the quiz. 
 Each question will give you fifteen seconds to answer.
